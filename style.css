@@ -1,0 +1,63 @@
+body {
+    background-color: solid yellow;
+}
+
+.image {
+    text-align: center;
+}
+
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .web {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  }
+
+  .mskill {
+      text-align: center;
+  }
+
+  footer {
+    margin: 2% 2%;
+    background: #3266c7;
+    color: white;
+  }
+
+  .link-color {
+    color: white;
+    text-decoration: none;
+  }
+
+  .footer {
+    box-shadow: 10px 10px 5px grey;
+  }
+
+  .footer-heading {
+    color: #03256C;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+  }
+
+  #tasks {
+      padding : 0 10%;
+  }
+
+  .card {
+    background-color: rgb(73, 134, 248);
+    margin-bottom: 30px;
+  }
+
+  .card:hover {
+    transform: scale(1.1);
+    transition: 1s;
+  }
